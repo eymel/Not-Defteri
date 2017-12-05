@@ -23,32 +23,51 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-WebApi", "04-WebApi", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPİİİ", "WebAPİİİ\WebAPİİİ.csproj", "{45CE434A-F0B0-4B02-8081-D30F0C926B82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_VueWeb", "01_VueWeb\01_VueWeb.csproj", "{5B48F28D-4527-4DEC-944B-7A4FD62FCE1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		MinimalInterference|Any CPU = MinimalInterference|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{87999F0F-BE0D-4FC9-8698-BD5B9ADC341A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{87999F0F-BE0D-4FC9-8698-BD5B9ADC341A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87999F0F-BE0D-4FC9-8698-BD5B9ADC341A}.MinimalInterference|Any CPU.ActiveCfg = Release|Any CPU
+		{87999F0F-BE0D-4FC9-8698-BD5B9ADC341A}.MinimalInterference|Any CPU.Build.0 = Release|Any CPU
 		{87999F0F-BE0D-4FC9-8698-BD5B9ADC341A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87999F0F-BE0D-4FC9-8698-BD5B9ADC341A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B2C9A2BD-68E7-4AB7-A8FC-F5217ED3FE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B2C9A2BD-68E7-4AB7-A8FC-F5217ED3FE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C9A2BD-68E7-4AB7-A8FC-F5217ED3FE8E}.MinimalInterference|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C9A2BD-68E7-4AB7-A8FC-F5217ED3FE8E}.MinimalInterference|Any CPU.Build.0 = Release|Any CPU
 		{B2C9A2BD-68E7-4AB7-A8FC-F5217ED3FE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2C9A2BD-68E7-4AB7-A8FC-F5217ED3FE8E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A16BECE6-DC3D-4E53-A3DD-F4A6479F8C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A16BECE6-DC3D-4E53-A3DD-F4A6479F8C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16BECE6-DC3D-4E53-A3DD-F4A6479F8C05}.MinimalInterference|Any CPU.ActiveCfg = Release|Any CPU
+		{A16BECE6-DC3D-4E53-A3DD-F4A6479F8C05}.MinimalInterference|Any CPU.Build.0 = Release|Any CPU
 		{A16BECE6-DC3D-4E53-A3DD-F4A6479F8C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A16BECE6-DC3D-4E53-A3DD-F4A6479F8C05}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8EBFBAA8-A4FA-4EAB-B0F6-9DA4F4650E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8EBFBAA8-A4FA-4EAB-B0F6-9DA4F4650E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBFBAA8-A4FA-4EAB-B0F6-9DA4F4650E59}.MinimalInterference|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBFBAA8-A4FA-4EAB-B0F6-9DA4F4650E59}.MinimalInterference|Any CPU.Build.0 = Release|Any CPU
 		{8EBFBAA8-A4FA-4EAB-B0F6-9DA4F4650E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EBFBAA8-A4FA-4EAB-B0F6-9DA4F4650E59}.Release|Any CPU.Build.0 = Release|Any CPU
 		{45CE434A-F0B0-4B02-8081-D30F0C926B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{45CE434A-F0B0-4B02-8081-D30F0C926B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CE434A-F0B0-4B02-8081-D30F0C926B82}.MinimalInterference|Any CPU.ActiveCfg = Release|Any CPU
+		{45CE434A-F0B0-4B02-8081-D30F0C926B82}.MinimalInterference|Any CPU.Build.0 = Release|Any CPU
 		{45CE434A-F0B0-4B02-8081-D30F0C926B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45CE434A-F0B0-4B02-8081-D30F0C926B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B48F28D-4527-4DEC-944B-7A4FD62FCE1A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{5B48F28D-4527-4DEC-944B-7A4FD62FCE1A}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{5B48F28D-4527-4DEC-944B-7A4FD62FCE1A}.MinimalInterference|Any CPU.ActiveCfg = MinimalInterference|Any CPU
+		{5B48F28D-4527-4DEC-944B-7A4FD62FCE1A}.MinimalInterference|Any CPU.Build.0 = MinimalInterference|Any CPU
+		{5B48F28D-4527-4DEC-944B-7A4FD62FCE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B48F28D-4527-4DEC-944B-7A4FD62FCE1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,5 +78,6 @@ Global
 		{A16BECE6-DC3D-4E53-A3DD-F4A6479F8C05} = {91FB4A0E-C0EC-4B52-AC06-B0F91F96048E}
 		{8EBFBAA8-A4FA-4EAB-B0F6-9DA4F4650E59} = {E9724B25-672B-4723-A5E6-4F3CADE91CFA}
 		{45CE434A-F0B0-4B02-8081-D30F0C926B82} = {D343922B-B363-4D79-9A06-EACF7F1AC6EB}
+		{5B48F28D-4527-4DEC-944B-7A4FD62FCE1A} = {E9724B25-672B-4723-A5E6-4F3CADE91CFA}
 	EndGlobalSection
 EndGlobal

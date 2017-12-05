@@ -1,0 +1,35 @@
+{
+  "name": "vuejs-and-jquery-vsix-template",
+  "description": "[Replace this text with your own description.]",
+  "version": "1.0.0",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "install_packages": "npm install",
+    "build": "webpack --progress --hide-modules"
+  },
+  "dependencies": {
+    "vee-validate": "^2.0.0-beta.23",
+    "vue": "^2.1.0",
+    "vue-router": "^2.2.1"
+  },
+  "devDependencies": {
+    "babel-core":  "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "cross-env": "^3.0.0",
+    "css-loader": "^0.25.0",
+    "file-loader": "^0.9.0",
+    "vue-loader": "^10.0.0",
+    "vue-template-compiler": "^2.1.0",
+    "webpack": "^2.2.0",
+    "webpack-dev-server": "^2.2.0"
+  },
+  "-vs-binding": {
+    "ProjectOpened": [
+      "install_packages"
+    ],
+    "AfterBuild": [
+      "build"
+    ]
+  }
+}
